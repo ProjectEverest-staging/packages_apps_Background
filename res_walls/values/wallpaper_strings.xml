@@ -2,7 +2,7 @@
     Copyright (C) 2021-2022 StatiXOS
     Copyright (C) 2021 Sourajit Karmakar
     Copyright (C) 2020-2022 Vaisakh Mural
-    Copyright (C) 2023 The EverestOS Project
+    Copyright (C) 2024 The EverestOS Project
 
     SPDX-License-Identifer: Apache-2.0
 -->
@@ -69,4 +69,17 @@
     <!-- Everest Wallpapers -->
     <string name="everest_title">Everest Wallpapers</string>
 
+    <!-- Everest Wallpaper-->
+    <string name="everest">EverestOS Wallpapers</string>
+    <string name="everest_wall_1_title">everest 1</string>
+    <string name="everest_wall_2_title">everest 2</string>
+    <string name="everest_wall_3_title">everest 3</string>
+    <string name="everest_wall_3_title">everest 4</string>
+    <string name="everest_wall_3_title">everest 5</string>
+    <string name="everest_wall_3_title">everest 6</string>
+    <string name="everest_wall_3_title">everest 7</string>
+    <string name="everest_wall_3_title">everest 8</string>
+    <string name="everest_wall_3_title">everest 9</string>
+    <string name="everest_everest_subtitle">Everest Edition Wallpapers</string>
+    <string name="everest_everest_attribution">Created by Taki</string>
 </resources>

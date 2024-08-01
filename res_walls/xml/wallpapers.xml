@@ -196,4 +196,61 @@
             src="@drawable/nata_de_coco" />
     </category>
 
+    <category id="everest" title="@string/category_everest" featured="everest_e">
+
+        <static-wallpaper
+            id="everest_a"
+            src="@drawable/everest_a"
+            title="@string/wallpaper_everest_a"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_b"
+            src="@drawable/everest_b"
+            title="@string/wallpaper_everest_b"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_c"
+            src="@drawable/everest_c"
+            title="@string/wallpaper_everest_c"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_e"
+            src="@drawable/everest_e"
+            title="@string/wallpaper_everest_e"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_f"
+            src="@drawable/everest_f"
+            title="@string/wallpaper_everest_f"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_g"
+            src="@drawable/everest_g"
+            title="@string/wallpaper_everest_g"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_h"
+            src="@drawable/everest_h"
+            title="@string/wallpaper_everest_h"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_i"
+            src="@drawable/everest_i"
+            title="@string/wallpaper_everest_i"
+            subtitle1="@string/author_taki" />
+
+        <static-wallpaper
+            id="everest_j"
+            src="@drawable/everest_j"
+            title="@string/wallpaper_everest_j"
+            subtitle1="@string/author_taki" />
+
+    </category>
 </resources>
